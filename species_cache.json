@@ -1,0 +1,62 @@
+{
+    "cheetah": {
+        "common_name": "Cheetah",
+        "scientific_name": "Acinonyx jubatus",
+        "iucn_status": "Vulnerable",
+        "iucn_code": "VU",
+        "wikipedia_summary": "The cheetah (Acinonyx jubatus) is a large cat and the fastest land animal, capable of reaching speeds of 112 km/h (70 mph) in short bursts covering distances up to 500 m. It has a tawny to creamy white or pale buff fur marked with evenly spaced, solid black spots. The cheetah is found in Africa and central Iran, inhabiting open grasslands and savannas. Unlike other big cats, the cheetah cannot roar but can purr. It is the only extant member of the genus Acinonyx.",
+        "fun_fact": "Cheetahs can accelerate from 0 to 100 km/h in just 3 seconds, making them faster than most sports cars. They also have semi-retractable claws like running spikes for traction.",
+        "habitat": "African savannas and grasslands, with a small population in central Iran",
+        "diet": "Carnivore — primarily small to medium-sized ungulates such as gazelles and impalas"
+    },
+    "fox": {
+        "common_name": "Red Fox",
+        "scientific_name": "Vulpes vulpes",
+        "iucn_status": "Least Concern",
+        "iucn_code": "LC",
+        "wikipedia_summary": "The red fox (Vulpes vulpes) is the largest of the true foxes and one of the most widely distributed members of the order Carnivora, found across the entire Northern Hemisphere. Red foxes are highly adaptable and have been introduced to Australia. They have elongated bodies with relatively short limbs, a long bushy tail, and a narrow, elongated skull with large pointed ears. Their fur ranges from pale yellowish red to deep reddish brown.",
+        "fun_fact": "Foxes use the Earth's magnetic field to hunt — they pounce in a northeast direction and their success rate jumps from 18% to 73%. They are also the only canid that can retract their claws like cats.",
+        "habitat": "Forests, grasslands, mountains, deserts, and urban areas across the Northern Hemisphere",
+        "diet": "Omnivore — rodents, rabbits, birds, insects, fruits, and berries"
+    },
+    "hyena": {
+        "common_name": "Spotted Hyena",
+        "scientific_name": "Crocuta crocuta",
+        "iucn_status": "Least Concern",
+        "iucn_code": "LC",
+        "wikipedia_summary": "The spotted hyena (Crocuta crocuta), also known as the laughing hyena, is a species of hyena native to sub-Saharan Africa. It is the largest member of the family Hyaenidae and is the most common large carnivore in Africa. Spotted hyenas are highly social animals living in large groups called clans of up to 80 individuals. Despite their dog-like appearance, hyenas are more closely related to cats and are part of the suborder Feliformia.",
+        "fun_fact": "Spotted hyenas have one of the strongest bite forces in the animal kingdom at 1,100 PSI — powerful enough to crush bone. Their 'laugh' is actually a sign of excitement or submission, not amusement.",
+        "habitat": "Sub-Saharan African savannas, grasslands, woodlands, and semi-arid regions",
+        "diet": "Carnivore — hunt wildebeest, zebras, and antelope; also scavenge from other predators"
+    },
+    "lion": {
+        "common_name": "Lion",
+        "scientific_name": "Panthera leo",
+        "iucn_status": "Vulnerable",
+        "iucn_code": "VU",
+        "wikipedia_summary": "The lion (Panthera leo) is a large cat of the genus Panthera native to Africa and India. It is the second-largest living cat after the tiger. Male lions are distinguished by their prominent mane. Lions are social animals forming groups called prides, typically consisting of related females and their cubs, along with a small number of adult males. The Asiatic lion (Panthera leo persica) survives in the Gir Forest of Gujarat, India.",
+        "fun_fact": "A lion's roar can be heard from 8 km (5 miles) away, making it the loudest of any big cat. In India, the last remaining population of Asiatic lions in the Gir Forest has grown from just 20 individuals in 1913 to over 600 today.",
+        "habitat": "African savannas and grasslands; Gir Forest of Gujarat, India (Asiatic lion)",
+        "diet": "Carnivore — large prey including wildebeest, zebra, buffalo, and various antelope species"
+    },
+    "tiger": {
+        "common_name": "Tiger",
+        "scientific_name": "Panthera tigris",
+        "iucn_status": "Endangered",
+        "iucn_code": "EN",
+        "wikipedia_summary": "The tiger (Panthera tigris) is the largest living cat species and a member of the genus Panthera. It is most recognizable by its dark vertical stripes on orange fur with a white underside. Tigers are apex predators and are native to Asia, with the highest concentration found in India. The Bengal tiger is the most numerous subspecies, with India's Project Tiger conservation programme having increased the population from 1,411 in 2006 to over 3,600 in recent counts.",
+        "fun_fact": "Every tiger has a unique stripe pattern — like human fingerprints, no two tigers have the same markings. India is home to over 70% of the world's wild tiger population across 54 tiger reserves.",
+        "habitat": "Tropical forests, mangrove swamps, grasslands, and taiga across South and Southeast Asia",
+        "diet": "Carnivore — primarily deer, wild boar, and buffalo; can consume up to 40 kg of meat in one sitting"
+    },
+    "wolf": {
+        "common_name": "Gray Wolf",
+        "scientific_name": "Canis lupus",
+        "iucn_status": "Least Concern",
+        "iucn_code": "LC",
+        "wikipedia_summary": "The gray wolf (Canis lupus), also known as the timber wolf, is a canine native to the wilderness and remote areas of Eurasia and North America. It is the largest extant member of the family Canidae. Wolves are highly social animals living in packs led by an alpha pair. The Indian wolf (Canis lupus pallipes) is a subspecies found in the Indian subcontinent, often involved in human-wildlife conflict due to livestock predation.",
+        "fun_fact": "Wolves can travel up to 50 km in a single day while hunting. The Indian wolf is one of the oldest lineages of gray wolves and has been living in the Indian subcontinent for over 400,000 years.",
+        "habitat": "Forests, grasslands, tundra, and deserts across Eurasia and North America; arid and semi-arid regions in India",
+        "diet": "Carnivore — hunt in packs targeting deer, elk, bison, and smaller mammals"
+    }
+}
