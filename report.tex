@@ -114,7 +114,7 @@ By embedding these specific traits into the text prompts, the model's attention 
 
 \section{System Architecture: Streamlit Web Application}
 
-To make the classification model accessible to end-users, we developed a production-grade web application using the \texttt{streamlit} framework. The app was designed with a focus on User Experience (UX) and educational value.
+To make the classification model accessible to end-users, we developed a production-grade web application using the \texttt{streamlit} framework. The app was designed with a focus on User Experience (UX) and educational value. The application has been deployed and is publicly accessible at: \url{https://bigcats.streamlit.app/}.
 
 \subsection{Information Enrichment and Data Caching}
 Per the assignment requirements, the application must display not only the prediction but also Wikipedia summaries and IUCN statuses. To optimize performance, querying the Wikipedia API during every inference step was deemed inefficient.
@@ -208,7 +208,7 @@ The results validate the extraordinary generalization capabilities of large-scal
 
 \section{Conclusion}
 
-In this project, we successfully developed a robust, Tier-1 Indian Wildlife Identifier. By leveraging the CLIP ViT-B/32 architecture combined with strategic prompt engineering, we attained a 98.03\% Top-1 accuracy across six wildlife species without any dataset-specific training. The integration of this model into a custom, beautifully designed Streamlit application—complete with Wikipedia summaries, IUCN conservation data, and batch processing capabilities—demonstrates a complete, end-to-end AI software engineering pipeline suitable for real-world ecological deployment.
+In this project, we successfully developed a robust, Tier-1 Indian Wildlife Identifier. By leveraging the CLIP ViT-B/32 architecture combined with strategic prompt engineering, we attained a 98.03\% Top-1 accuracy across six wildlife species without any dataset-specific training. The integration of this model into a custom, beautifully designed Streamlit application—complete with Wikipedia summaries, IUCN conservation data, and batch processing capabilities—demonstrates a complete, end-to-end AI software engineering pipeline suitable for real-world ecological deployment. The deployed application is publicly available at \url{https://bigcats.streamlit.app/}.
 
 \section*{Appendix A: Environment and Dependencies}
 The project was built using Python 3.10. Key dependencies include:
