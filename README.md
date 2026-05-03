@@ -1,5 +1,7 @@
 # Indian Wildlife Identifier (SMAI Assignment 3)
 
+**Note:** This repository only contains the solution for **Task 7.5 (T7.5)**.
+
 ![Indian Wildlife Identifier](assignment_problem_statement.png)
 
 A zero-shot image classification application and evaluation pipeline that identifies 6 species of wildlife (cheetah, fox, hyena, lion, tiger, wolf) using OpenAI's CLIP model (`clip-vit-base-patch32`) without any fine-tuning or training required.
