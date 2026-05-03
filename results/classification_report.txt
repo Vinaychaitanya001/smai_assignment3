@@ -1,0 +1,19 @@
+T7.5 — CLIP Zero-Shot Classification Report
+==================================================
+Model: openai/clip-vit-base-patch32
+Total images: 1723
+Top-1 Accuracy: 98.03%
+Top-3 Accuracy: 99.83%
+
+              precision    recall  f1-score   support
+
+     cheetah      0.988     0.991     0.990       342
+         fox      0.960     0.968     0.964       250
+       hyena      0.997     0.951     0.973       305
+        lion      0.987     0.997     0.992       294
+       tiger      1.000     0.996     0.998       269
+        wolf      0.945     0.977     0.961       263
+
+    accuracy                          0.980      1723
+   macro avg      0.979     0.980     0.980      1723
+weighted avg      0.981     0.980     0.980      1723

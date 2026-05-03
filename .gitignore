@@ -44,7 +44,10 @@ venv.bak/
 
 # Datasets and results
 dataset/
-results/
+# Allow results to be tracked
+!results/
 *.png
+!assignment_problem_statement.png
+!results/*.png
 *.jpg
 *.jpeg
